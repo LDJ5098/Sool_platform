@@ -18,7 +18,7 @@ https://ldj5098.github.io/Sool_platform/
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Design/Tool:** Photoshop
